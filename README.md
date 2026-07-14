@@ -4,7 +4,15 @@
 
 I build production systems in whatever stack the problem demands. Over the last two years I shipped **40+ platforms end to end** — payments infrastructure, analytics dashboards, e-commerce integrations, gamified consumer apps — most of them in technologies I learned on the job.
 
-🌐 **[Portfolio & case studies →](https://stiquit.github.io)** <!-- update this URL after deploying -->
+🌐 **[Portfolio & case studies →](https://stiquit.github.io)** <!-- update if your final Pages URL differs -->
+
+## ⚠️ Where's all the work?
+
+This is my personal account. My 2024–2026 client work — **503+ merged pull requests across 46 production repositories** — lives on my work account:
+
+### 👉 [github.com/MiguelWebThreeConsulting](https://github.com/MiguelWebThreeConsulting)
+
+Nearly all of it is in **private client repositories**, so the contribution graph over there shows the volume of activity rather than browsable code. Detailed write-ups of what was actually built are in the [case studies on my portfolio](https://stiquit.github.io).
 
 ## By the numbers
 
@@ -14,8 +22,6 @@ I build production systems in whatever stack the problem demands. Over the last 
 | 📦 Production repositories | **46** |
 | 🚀 Platforms shipped end to end | **40+** |
 | 🧰 Ecosystems learned on the job | Solidity/EVM · Rust/Solana · Hedera · Cosmos |
-
-> Most of my work lives in **private client repositories** — the contribution graph on this profile reflects it. Detailed case studies are on my portfolio.
 
 ## What I work with
 
@@ -28,10 +34,10 @@ I build production systems in whatever stack the problem demands. Over the last 
 ## Things I'm proud of
 
 - 🏗️ **Fractal Art Launchpad** — owned a creator launch platform end to end: payment contracts, verifiable randomness, marketplace, admin analytics. 87 PRs over six months.
-- 🦀 **Learned Rust and shipped it to mainnet** in the same project — a vault program handling real user funds ([case study on the portfolio](https://miguelwebthreeconsulting.github.io)).
+- 🦀 **Learned Rust and shipped it to mainnet** in the same project — a vault program handling real user funds.
 - 🛍️ **Physical–digital commerce** — NFC chips + Shopify webhooks (HMAC-validated) binding physical merch to digital ownership.
 - 📈 **Bloom** — a portfolio analytics dashboard taken from first commit to production in **3 weeks**, solo.
-- 🌍 **EigenWorlds** — personal project: NX monorepo, React + NestJS mint page, live on [OpenSea](https://opensea.io/collection/eigenworlds-4). [Source here →](https://github.com/MiguelWebThreeConsulting/Personal-EigenLayer)
+- 🌍 **EigenWorlds** — personal project: NX monorepo, React + NestJS mint page, live on [OpenSea](https://opensea.io/collection/eigenworlds-4). [Source →](https://github.com/MiguelWebThreeConsulting/Personal-EigenLayer)
 
 ## Background
 
