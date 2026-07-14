@@ -26,9 +26,13 @@ Nearly all of it is in **private client repositories**, so the contribution grap
 ## What I work with
 
 **Frontend** — React, Next.js, TypeScript, Angular, NX monorepos
+
 **Backend** — Node.js, NestJS, Express, Python, .NET Core, REST & GraphQL
+
 **Data** — PostgreSQL, MongoDB, event indexing, batch API pipelines, query optimization
+
 **Distributed systems** — Solidity, Rust (Anchor), multi-network wallet integrations, security auditing
+
 **Cloud & DevOps** — AWS (EC2, S3, Lambda), Docker, CI/CD, Heroku, Netlify
 
 ## Things I'm proud of
