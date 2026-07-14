@@ -4,7 +4,7 @@
 
 I build production systems in whatever stack the problem demands. Over the last two years I shipped **40+ platforms end to end** — payments infrastructure, analytics dashboards, e-commerce integrations, gamified consumer apps — most of them in technologies I learned on the job.
 
-🌐 **[Portfolio & case studies →](https://miguelwebthreeconsulting.github.io)** <!-- update this URL after deploying -->
+🌐 **[Portfolio & case studies →](https://stiquit.github.io)** <!-- update this URL after deploying -->
 
 ## By the numbers
 
